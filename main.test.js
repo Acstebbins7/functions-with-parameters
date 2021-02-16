@@ -10,6 +10,10 @@ let z = 5
 let name = "Josh"
 let greeting = "HEY"
 
+function multiply(num){
+  x = x * num
+}
+
 
 
 
