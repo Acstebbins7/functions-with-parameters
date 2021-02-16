@@ -14,6 +14,9 @@ function multiply(num){
   x = x * num
 }
 
+function modYBy(num1){
+  y = y % num1
+}
 
 
 
