@@ -26,6 +26,10 @@ function makeFullName(string){
   name = name + " " + string
 }
 
+function yellAt(person){
+  greeting = greeting + ", " + person + "!"
+}
+
 
 /*********************************************************************************************************************
 
